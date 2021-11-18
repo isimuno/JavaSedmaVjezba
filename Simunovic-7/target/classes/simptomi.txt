@@ -1,0 +1,12 @@
+1
+Glavobolja
+ČESTO
+2
+Temperatura
+SREDNJE
+3
+Grlobolja
+RIJETKO
+4
+Curenje nosa
+SREDNJE
